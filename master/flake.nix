@@ -11,6 +11,7 @@
   inputs.src-georefar-master.ref   = "refs/heads/master";
   inputs.src-georefar-master.owner = "juancarlospaco";
   inputs.src-georefar-master.repo  = "nim-georefar";
+  inputs.src-georefar-master.dir   = "";
   inputs.src-georefar-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
