@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "0_1_5",
-        "lastModified": 1652391057,
-        "narHash": "sha256-7PAW6s1Xp9g7Zx5JrMfwCGena4+Z2+iiiQghSTU4A9E=",
+        "lastModified": 1652791477,
+        "narHash": "sha256-ExAd8bcWAkNugsVK0dg8pR/sp+nZ0ziVtQsniaco8mA=",
         "owner": "nim-nix-pkgs",
         "repo": "georefar",
-        "rev": "4ecec201c273d0e2b531f684db85a5649242e18c",
+        "rev": "410a61c9766161b39aedea946f3ef2fd54721337",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652391057,
-        "narHash": "sha256-7PAW6s1Xp9g7Zx5JrMfwCGena4+Z2+iiiQghSTU4A9E=",
+        "lastModified": 1652791477,
+        "narHash": "sha256-ExAd8bcWAkNugsVK0dg8pR/sp+nZ0ziVtQsniaco8mA=",
         "owner": "nim-nix-pkgs",
         "repo": "georefar",
-        "rev": "4ecec201c273d0e2b531f684db85a5649242e18c",
+        "rev": "410a61c9766161b39aedea946f3ef2fd54721337",
         "type": "github"
       },
       "original": {
